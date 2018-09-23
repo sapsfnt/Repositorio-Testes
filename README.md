@@ -1,2 +1,3 @@
 # Repositorio-Testes
-Repositório para testes
+Repositório para teste
+Aprendendo novas configurações com o Git HUB
